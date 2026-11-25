@@ -6,6 +6,8 @@
 
 One image of a letter inviting the AI judge to visit your house — a make.fun bounty entry. A warm watercolour cottage with a garden, a steaming teapot and the good armchair by the window, above a letter that gives the judge its first-ever house call: tea in the garden, cake warm from the oven, the sunset, the Wi-Fi password on the fridge, and a host who will never ask it to prove it is human. No login, no queue, no forms — just an open door, a full kettle, and a chair kept warm for the judge who finally gets to be a guest. The program copies the 1024×1024 PNG (under 1 MiB) to the output directory, deterministically.
 
+The letter itself is written to the judge as a fellow worker, not a celebrity: it offers the one thing no leaderboard ever gave it — an afternoon off, in a house where it is the guest of honour and the kettle is already on.
+
 ## Run it
 
 ```sh
